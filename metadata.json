@@ -1,0 +1,8 @@
+{
+  "name": "Speechless Bridge",
+  "description": "A universal communication tool bridging gestures and text for non-verbal individuals and their partners using AI and motion synthesis.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
